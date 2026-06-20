@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada que enamora, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Mirada que enamora, Vol. 2** (mirada-que-enamora-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:50:18.529651 | `v1` | `9f7b337557b836305b483c0ddd8bdafe8cff831bfe44fd9010eff1cd432bc3ab` | `451bf895a8cc998980fc622283a6949f8d04494807eeae9934f2e4eef5754757` | `2026-06-21_mirada-que-enamora-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

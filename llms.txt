@@ -1,4 +1,4 @@
-# Mirada que enamora
+# Mirada que enamora, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Mirada que enamora |
+| **Title** | Mirada que enamora, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-que-enamora/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mirada que enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-que-enamora/) |
+| **Get License** | [Secure Licensing Rights for Mirada que enamora, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-que-enamora/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya me deja sin aliento
+> Tú eres mi chula y yo sigo el movimiento
+> De Barcelona a Madrid, puro sentimiento
+> Si te acercas, baby, paramos el tiempo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `9f7b337557b836305b483c0ddd8bdafe8cff831bfe44fd9010eff1cd432bc3ab` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
